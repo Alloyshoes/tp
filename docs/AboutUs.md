@@ -13,7 +13,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Aloysius
 
-<img src="images/alloyshoes.jpg" width="200px">
+<img src="images/alloyshoes.png" width="200px">
 
 [[github](https://github.com/Alloyshoes)]
 [[portfolio](team/alloyshoes.md)]
